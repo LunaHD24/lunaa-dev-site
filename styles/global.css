@@ -1,0 +1,13 @@
+:root {
+    --bg-color: #162936;
+    --second-color: #192f3e;
+    --third-color: #1c3545;
+    --navbar-color: #101e27;
+    --text-color: #eff2f7;
+}
+
+html, body {
+    height: 100%;
+    background-color: var(--bg-color);
+    font-family: monospace;
+}
