@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.lunaa.moonbreak",
+    "module": "moonbreak-api",
+    "version": "v1.2.0-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.5.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "moonbreak-api-v1.2.0-beta.jar",
+          "url": "moonbreak-api-v1.2.0-beta.jar",
+          "size": 12547,
+          "sha512": "acd976d3f7cdd6118040a878113b856de2ae0c6951184bce7169f95b3b336de73552166e2e48ae82a94eeb1a53c1b23670201a3ecd244eb8d2e6572ff9b9c3d0",
+          "sha256": "d607ca2188037df30b6d7e4ad7fd50f2ecc7f46f4520e3e85e8ad1d3ae1f7aaa",
+          "sha1": "99acfa42adfadb2a95d5dbca2e47d56c87e60a71",
+          "md5": "26347b06cc51be9e36851eb2133d9767"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonbreak-api-v1.2.0-beta.jar",
+          "url": "moonbreak-api-v1.2.0-beta.jar",
+          "size": 12547,
+          "sha512": "acd976d3f7cdd6118040a878113b856de2ae0c6951184bce7169f95b3b336de73552166e2e48ae82a94eeb1a53c1b23670201a3ecd244eb8d2e6572ff9b9c3d0",
+          "sha256": "d607ca2188037df30b6d7e4ad7fd50f2ecc7f46f4520e3e85e8ad1d3ae1f7aaa",
+          "sha1": "99acfa42adfadb2a95d5dbca2e47d56c87e60a71",
+          "md5": "26347b06cc51be9e36851eb2133d9767"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonbreak-api-v1.2.0-beta-sources.jar",
+          "url": "moonbreak-api-v1.2.0-beta-sources.jar",
+          "size": 10042,
+          "sha512": "10ddd9e72b8fa60854bfd695b4f655b00f79f0ca10f3254e2ac78f6c5f30f77347dc2dc0746e2d0b284c425f1465a5ef9d70ca4f05fa5584268f0d07b983c90e",
+          "sha256": "357dbe4e0ffb375c65a0bd79855731ab7995db8cd4330722ebf312a9c3f433f7",
+          "sha1": "3e76c80b0482affc81c5af7b0cc38a1141c9f933",
+          "md5": "432c4460f82c5062b9f8eb4f44de57a2"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "moonbreak-api-v1.2.0-beta-javadoc.jar",
+          "url": "moonbreak-api-v1.2.0-beta-javadoc.jar",
+          "size": 4205238,
+          "sha512": "becd7232d37df9fc63aa9af461c7ed37e3b9208741f9a76071a1d03ee432b06ea7aa8edab71a39938f9034f6fa171185b5ca0bbd939ceecd35e55715decb26a0",
+          "sha256": "91aaad98287812b13568c8fd3855a0cdefce88175aa7d8aa774693c2608f2486",
+          "sha1": "dcc7154235703b3f48098a79ab95227a993a0954",
+          "md5": "a9f82ca8fd87e21fad77d5a95c30405a"
+        }
+      ]
+    }
+  ]
+}
