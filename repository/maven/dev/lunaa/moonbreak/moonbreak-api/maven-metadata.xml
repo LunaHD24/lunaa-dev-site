@@ -3,11 +3,11 @@
   <groupId>dev.lunaa.moonbreak</groupId>
   <artifactId>moonbreak-api</artifactId>
   <versioning>
-    <latest>v1.2.0-beta</latest>
-    <release>v1.2.0-beta</release>
+    <latest>1.2.0</latest>
+    <release>1.2.0</release>
     <versions>
-      <version>v1.2.0-beta</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20260830131337</lastUpdated>
+    <lastUpdated>20260830135812</lastUpdated>
   </versioning>
 </metadata>
